@@ -4,6 +4,9 @@
 ![Course](https://img.shields.io/badge/Hunarmand-Punjab-green?style=for-the-badge)
 ![Instructor](https://img.shields.io/badge/Instructor-Akbar_Ali-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Assignment-Completed-success?style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=captainawais&repo=Hunarmand-Punjab-Python-Mastery-Portfolio&label=Portfolio+Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=captainawais&label=Portfolio+Views&color=blue&style=for-the-badge)
+
 
 ---
 
