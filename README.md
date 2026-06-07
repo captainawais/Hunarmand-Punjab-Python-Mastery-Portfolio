@@ -70,52 +70,65 @@ The objective of this portfolio is to demonstrate Python fundamentals, problem s
 
 # 🚀 Final Integrated Project
 
-TECHFACT PRO – Student Course Management System
+## TECHFACT PRO – Student Course Management System
 
 A complete Python-based Student Course Management System developed as the Final Integrated Project of the Hunarmand Punjab Python Programming Training Program.
 
-Key Features
-Student Management
-Course Management
-Enrollment Management
-Student Profiles
-File Handling Database
-Search Records
-Update Records
-Delete Records
-Object-Oriented Programming
-Exception Handling
-Technologies
-Python 3.x
-OOP
-File Handling
-Modules
-Functions
-Exception Handling
-Project Location
+### Key Features
+
+* Student Management
+* Course Management
+* Enrollment Management
+* Student Profiles
+* File Handling Database
+* Search Records
+* Update Records
+* Delete Records
+* Object-Oriented Programming
+* Exception Handling
+
+### Technologies
+
+* Python 3.x
+* OOP
+* File Handling
+* Modules
+* Functions
+* Exception Handling
+
+### Project Location
+
+```text
 Final-Integrated-Project/
-Documentation
+```
+
+### Documentation
 
 Complete project documentation is available inside:
 
+```text
 Final-Integrated-Project/report/
-Version
+```
 
-Current Version: 1.0
+### Version
 
-Future Version
+Current Version: **1.0**
+
+### Future Version
 
 Version 2.0 will include:
 
-Course Analytics
-Dashboard Summary
-Search by Name
-Duplicate Validation
-Statistics Reports
-GUI Interface
-Author
+* Course Analytics
+* Dashboard Summary
+* Search by Name
+* Duplicate Validation
+* Statistics Reports
+* GUI Interface
+
+### Author
 
 Awais Farooq
+
 
 ---
 
