@@ -5,7 +5,6 @@
 ![Instructor](https://img.shields.io/badge/Instructor-Akbar_Ali-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Assignment-Completed-success?style=for-the-badge)
 ![Visitors](https://komarev.com/ghpvc/?username=captainawais&repo=Hunarmand-Punjab-Python-Mastery-Portfolio&label=Portfolio+Views&color=0e75b6&style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=captainawais&label=Portfolio+Views&color=blue&style=for-the-badge)
 
 
 ---
@@ -71,9 +70,52 @@ The objective of this portfolio is to demonstrate Python fundamentals, problem s
 
 # 🚀 Final Integrated Project
 
-Hunarmand Student Management System
+TECHFACT PRO – Student Course Management System
 
-A complete Python application developed by combining concepts from all lectures into one practical project.
+A complete Python-based Student Course Management System developed as the Final Integrated Project of the Hunarmand Punjab Python Programming Training Program.
+
+Key Features
+Student Management
+Course Management
+Enrollment Management
+Student Profiles
+File Handling Database
+Search Records
+Update Records
+Delete Records
+Object-Oriented Programming
+Exception Handling
+Technologies
+Python 3.x
+OOP
+File Handling
+Modules
+Functions
+Exception Handling
+Project Location
+Final-Integrated-Project/
+Documentation
+
+Complete project documentation is available inside:
+
+Final-Integrated-Project/report/
+Version
+
+Current Version: 1.0
+
+Future Version
+
+Version 2.0 will include:
+
+Course Analytics
+Dashboard Summary
+Search by Name
+Duplicate Validation
+Statistics Reports
+GUI Interface
+Author
+
+Awais Farooq
 
 ---
 
